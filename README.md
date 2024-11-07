@@ -1,4 +1,4 @@
-# djangoappscript is a more advanced script for a django project
+# Djangostart
 
 ## Prerequisites
 
@@ -10,8 +10,8 @@
 In your terminal
 
 ```shell
-git clone https://github.com/Netsponge/djangoappscript
-cd djangoappscript
+git clone https://github.com/Netsponge/djangostart
+cd djangostart
 ```
 
 ## Launch script
